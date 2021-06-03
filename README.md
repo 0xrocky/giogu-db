@@ -1,2 +1,3 @@
-# database_prj
-Project of the database for the exam of Databases course
+# Giogu
+
+Project of the Databases course, with the use of PostgreSQL, PL/pgSQL and PHP.
