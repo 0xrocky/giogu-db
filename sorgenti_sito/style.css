@@ -1,0 +1,118 @@
+body {  
+	font-family:Arial,Verdana,cursive;
+	font-size:14px;
+	margin:1px;
+	padding:0px;
+}
+
+.main{  
+	width:100%;
+	margin:0px; 
+	padding:0px;
+}
+
+.td-sx{
+	width:20%;
+	border-style:groove;
+	border-color:#000022;
+	border-width:2px;
+	padding:5px;
+}
+
+.tablebody{  
+	width:100%;
+	margin:1px; 
+	padding:0px;
+	border-style:solid;
+	border-color:#000022;
+	border-width:2px;
+}
+
+.tdbody0{
+	width:25%;
+	border-style:solid;
+	border-color:#000022;
+	border-width:2px;
+	padding:5px;
+	background-color: rgb(151, 152, 186);
+}
+
+.tdbody1{
+	width:25%;
+	border-style:solid;
+	border-color:#000022;
+	border-width:2px;
+	padding:5px;
+}
+
+.td-dx{
+	width:80%;
+	border-style:groove;
+	border-color:#000022;
+	border-width:2px;
+	padding:5px;
+}
+
+.div-title{
+	font-size: xx-large; 
+	text-align: center; 
+	background-color: rgb(155, 80, 150); 
+	padding-top: 30px; 
+	padding-bottom: 30px;
+}
+
+.div-footer{
+	font-size: smaller;  
+	background-color: rgb(155, 80, 150); 
+	padding: 30px; 
+}
+
+pre {  
+	font-size:14px;
+}
+
+a {  
+	text-decoration:none;
+	color:#000066;
+	padding:5px;  
+}
+
+.button {  
+	color:#000066;
+	margin-left:02px;  
+}
+
+a:hover{  
+	background-color: rgb(255, 102, 0);
+	padding:5px;  
+}
+
+.w3c-ref{
+	border: 0px solid;
+	padding: 5px;
+	width: 88px;
+	height: 31px;
+}
+
+.padding-el{
+	padding: 5px;
+}
+
+.text{  
+	font-size:18px;
+	padding:4px;
+	margin:10px;
+}
+
+.txtitle {  
+	color:#333333;
+	font-size:20px;
+	font-weight:bold;
+}
+
+input {  
+	border-style:solid;
+	border-color:#666666;
+	border-width:2px;
+	padding:2px;
+}
